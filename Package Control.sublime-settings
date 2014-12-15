@@ -1,0 +1,11 @@
+{
+	"installed_packages":
+	[
+		"CoffeeScript",
+		"Git",
+		"Package Control",
+		"RSpec",
+		"Ruby Slim",
+		"SCSS"
+	]
+}
